@@ -68,3 +68,4 @@ return view('profile', ['data' => $data]);
 
 
 ## 動作確認のスクリーンショット
+https://github.com/user-attachments/assets/48af166b-afe4-42aa-812a-e0b83342a9fd
